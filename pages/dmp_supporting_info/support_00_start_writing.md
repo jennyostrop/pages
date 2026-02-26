@@ -153,7 +153,7 @@ Useful: DMP versions can be named in the **Version history** tab (under the 'Sha
 Here you can change:
 * The internal DMP name and description
 * The default export and preview format (document template)
-* Migrate to [another version of the questionnaire (knowledge model)](
+* Migrate to [another version of the questionnaire (knowledge model)](/pages/support_00_start_writing#project-migration)
 
 ### The Metrics tab (disabled in FAIR Wizard Norway)
 Metrics on completeness of the DMP and FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.
