@@ -28,7 +28,11 @@ Importantly, the information in a data management plan can also be valuable for 
 
 In our experience, one critical obstacle remains the technological readiness on the stakeholder side to receive DMP-information through API endpoints. Overcoming this requires both international standardization efforts (such as the [OSTrails project](/pages/dmp_reflections#inspiring-dmp-project-elsewhere)) and working together on implementing local or national use case examples.
 
-Conceptually, we have categorised DMP stakeholders in 3 levels as illustrated below as stakeholder pyramid: stakeholders that have requirements on DMP format or content (level I), stakeholders that could interact with information in the DMP (level II), and stakeholders that are not directly involved but have an interest in DMPs facilitating FAIR research data or in the DMP itself (level III).
+Conceptually, we have categorised DMP stakeholders in 3 levels as illustrated below as stakeholder pyramid: 
+
+* stakeholders that have requirements on DMP format or content (level I)
+* stakeholders that could interact with information in the DMP (level II)
+* stakeholders that are not directly involved but have an interest in DMPs facilitating FAIR research data or in the DMP itself (level III).
 
 {% include image.html file="stakeholder_pyramid.png" caption="DMP stakeholders and their motivations." alt="DMP stakeholders depicted as pyramid with Level 1 (Stakeholders who set requirements) at the top, surrounded by the words Risk reduction, Compliance, User-friendliness & Relevance. Level 2 (Stakeholders who can offer/use information in DMP) in the middle. Level 3 (Stakeholders without immediate involvement) at the bottom" %}
 
