@@ -11,7 +11,7 @@ sidebar: background_knowledge
 toc: true
 ---
 
-This quick-start-guide lists steps in configuring a FAIR Wizard instance and describes of the configuration of the instance [norway.fair-wizard.com](/pages/dmp_wizard/#users-from-ntnu-uib-uio-uit). The page aims to support colleagues who are starting to use the tool and wish to set similar configuration settings to our instance.
+This quick-start-guide lists steps in configuring a FAIR Wizard or DSW instance to achieve a similar configuration as the instance [norway.fair-wizard.com](/pages/dmp_wizard/#users-from-ntnu-uib-uio-uit). The page aims to support colleagues who are starting to use the tool and wish to set similar configuration settings to our instance.
 
 [FAIR Wizard](https://fair-wizard.com/) is the software-as-a-service version of the Open Source DMP tool [Data Stewardship Wizard (DSW).](https://ds-wizard.org/). In addition to the Data Management Planner (which equals DSW), FAIR Wizard contains the module Admin Center, Integration Hub, and Analytics.\
 The detailed user guide is available under [https://guide.fair-wizard.com/en/production/](guide.fair-wizard.com/).
