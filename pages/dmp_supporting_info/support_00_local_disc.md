@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: 'Get local/disciplinary support'
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Korbinian Bösl, Sagnik Sengupta]
 page_id: support_00_local_disc
 description:
 affiliations:
