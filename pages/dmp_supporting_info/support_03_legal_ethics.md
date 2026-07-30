@@ -97,7 +97,7 @@ The principle of data minimization entails limiting the amount of personal data 
 * The Personal Data Act ([Norwegian: Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)
 * [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
 * [The Norwegian Data Protection Authority (Datatilsynet) on the Personal Data Act *Norwegian only*](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/ "2024-07-17"){:lang="no"}
-* [National Research Ethics Comittees: Q&A: New legislation on personal data - what does it mean for research? *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/){:lang="no"}
+* [National Research Ethics Committees: Q&A: New legislation on personal data - what does it mean for research? *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/){:lang="no"}
 
 If data is completely anonymous, it is not considered personal data. This means that data has been collected anonymously and not linked to a directly or indirectly person at any stage of the research process. As long as a link exists or can be re-created the data is only de-identified or pseudonymised and considered personal data. If data is anonymized during the course of the research project, the project is processing  personal data.
 
@@ -108,24 +108,24 @@ Sensitive data is data that must be protected against unwanted disclosure. Perso
 
 Reasons for sensitivity (non-exhaustive):
 * National security
-	* National Security Act ([Norwegian: Lov om nasjonal sikkerhet(sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24))
+	* National Security Act ([Norwegian: Lov om nasjonal sikkerhet (sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24){:lang="no"})
 * Export control regulations
-	* Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
-	* [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
+	* Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. (eksportkontrolloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93){:lang="no"})
+	* Ministry of Foreign Affairs: Guidelines for technology export (2025) ([Norwegian: Veileder for eksport av teknologi](https://www.regjeringen.no/no/dokumenter/veileder-for-eksport-av-teknologi/id3116449/){:lang="no"})
 * Intellectual Property Rights (IPR), commercial issues, trade secrets or confidentiality issues
-	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40))
-	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9))
-	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126))
-	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2024-03-08-9)
-* Research on endagered species
-	* Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100))
+	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40){:lang="no"})
+	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9){:lang="no"})
+	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126){:lang="no"})
+	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2024-03-08-9){:lang="no"})
+* Research on endangered species
+	* Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100){:lang="no"})
 * Research on protected cultural heritage
-	* Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50))
+	* Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50){:lang="no"})
 * Indigenous Data Governance
-	* United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://fn.no/avtaler/urfolk/fns-erklaering-om-urfolks-rettigheter)
+	* United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter](https://fn.no/avtaler/urfolk/fns-erklaering-om-urfolks-rettigheter))
 
 Further information:
-* [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf) 
+* [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
 
 ## Question-specific guidance
 
@@ -177,6 +177,7 @@ Ethical considerations may affect how data will be handled and shared. Investiga
 Please indicate any additional ethical guidelines or codes of conducts relevant for the project. Examples (non-exhaustive):
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care "2024-04-22")
 * [The TRUST Code – Global Code of Conduct for Equitable Research Partnerships](https://www.globalcodeofconduct.org/ "2024-04-22")
+* [Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/ "2026-07-30")
 * [Guidelines for Internet Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/a-guide-to-internet-research-ethics/ "2024-10-30")
 * [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai "2024-04-22")
 * [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing](https://www.cbd.int/abs/default.shtml "2024-04-22")
@@ -254,7 +255,7 @@ If you already described the processing of personal data in detail in other syst
 	* [NTNU guidance for Data Protection Impact Assessment (DPIA)](https://i.ntnu.no/wiki/-/wiki/English/Data+protection+impact+assessment "2024-10-30")
 	* [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
 * [Sikt notification form for personal data ('Sikt Meldeskjema')](https://sikt.no/en/notification-form-personal-data)
-* For agreements on data processing you can find inspiration in the [Data Agreement Wizard](https://dawid.elixir-luxembourg.org/) - - make sure to clarify the agreement(s) with your insitutional legal person as well.
+* For agreements on data processing you can find inspiration in the [Data Agreement Wizard](https://dawid.elixir-luxembourg.org/) - - make sure to clarify the agreement(s) with your institutional legal person as well.
 
 ##### Privacy considerations step-by-step
 <code> Be aware that you might have to register processing of personal data in additional systems as required by your institution and there is currently no information exchange between systems. </code>
@@ -317,9 +318,10 @@ Reasons for sensitivity (non-exhaustive) and relevant resources:
 * Indigenous Data Governance
 
 Resources on export control:
-* [Norwegian Directorate for Higher Education and Skills: Export control of knowledge transfer and international sanctions](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-knowledge-transfer-and-international-sanctions "2024-10-03")
-* [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
 * sikresiden.no e-learning course [Research security in international cooperation](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
+* [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
+* [Norwegian Directorate for Higher Education and Skills: Export control of knowledge transfer and international sanctions](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-knowledge-transfer-and-international-sanctions "2024-10-03")
+* Ministry of Foreign Affairs: Guidelines for technology export (2025) ([Norwegian: Veileder for eksport av teknologi](https://www.regjeringen.no/no/dokumenter/veileder-for-eksport-av-teknologi/id3116449/){:lang="no"})
 * [National Research Ethics Committees: Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/ "2026-06-24")
 * [NTNU: Control of knowledge transfer](https://i.ntnu.no/wiki/-/wiki/English/Control+of+knowledge+transfer "2024-10-03")
 * [UiB: Responsible International Knowledge Cooperation](https://www.uib.no/en/udir/173813/responsible-international-knowledge-cooperation "2025-03-04")
@@ -339,5 +341,5 @@ Technology transfer and innovation contact points:
 * [UiT: Norinnova](https://norinnova.no/tto/)
 
 Resources on Indigenous Data Governance:
-* [GIDA-Sápmi - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403 "2024-07-19")
 * [National Research Ethics Committees - Topic: Indigenous Peoples and National Minorities](https://www.forskningsetikk.no/en/resources/topic-indigenous-peoples-and-national-minorities/ "2025-10-06")
+* [GIDA-Sápmi - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403 "2024-07-19")
