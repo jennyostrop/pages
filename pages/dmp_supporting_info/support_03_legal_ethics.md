@@ -326,7 +326,7 @@ Resources on export control:
 * [NTNU: Control of knowledge transfer](https://i.ntnu.no/wiki/-/wiki/English/Control+of+knowledge+transfer "2024-10-03")
 * [UiB: Responsible International Knowledge Cooperation](https://www.uib.no/en/udir/173813/responsible-international-knowledge-cooperation "2025-03-04")
 * [UiO: About responsible international cooperation](https://www.uio.no/english/for-employees/support/international-cooperation/about/ "2025-03-04")
-* [UiT: Internasjonalt samarbeid og eksportkontroll **Norwegian only**](https://uit.no/om/informasjonssikkerhet#v-pills-879214 "2025-10-30"){:lang="no"}
+* [UiT: Internasjonalt samarbeid og eksportkontroll *Norwegian only*](https://uit.no/om/informasjonssikkerhet#v-pills-879214 "2025-10-30"){:lang="no"}
 
 Institutional IPR policies:
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
