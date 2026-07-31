@@ -108,18 +108,18 @@ Institutional resources on IPR:
 
 ### Is my data still personal if it has been pseudonymized and the key has been deleted/is stored in a safe system
 Useful resources:
-* [Research Data Alliance Norway (NO-RDA): Veileder for deling av forskningsdata med personopplysninger **Norwegian only**](https://doi.org/10.18711/j7pc-7883){:lang="no"}
+* [Research Data Alliance Norway (NO-RDA): Veileder for deling av forskningsdata med personopplysninger *Norwegian only*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
 * [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-11-20")
 * [EDPB Guidelines 02/2026 on Psudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30")
 * [researchdata.se (SE): Data containing personal information - FAQ and common misconceptions](https://researchdata.se/en/manage-data/data-containing-personal-information/frequently-asked-questions-and-common "2026-07-30")
-* [FORS (CH): Data anonymisation: legal, ethical, and strategic considerations[(https://doi.org/10.24449/FG-2020-00011)
+* [FORS (CH): Data anonymisation: legal, ethical, and strategic considerations](https://doi.org/10.24449/FG-2020-00011)
 
 Recent developments:
 * [EDPB Guidelines 02/2026 on Anonymisation (open for consultation until 10/2026)](https://www.edpb.europa.eu/public-consultations/guidelines-022026-on-anonymisation_en#no-back "2026-07-30")
-* [Press release: Judgment of the Court in Case C-413/23 P | EDPS v SRB (Concept of personal data), 2025](https://curia.europa.eu/site/upload/docs/application/pdf/2025-09/cp250107en.pdf "2026-07-30")
+* [Press release: Judgment of the Court in Case C-413/23 P, EDPS v SRB (Concept of personal data), 2025](https://curia.europa.eu/site/upload/docs/application/pdf/2025-09/cp250107en.pdf "2026-07-30")
 
 Anonymization tools:
-* [FORS (CH): A practical guide to anonymisation tools[(https://forscenter.ch/wp-content/uploads/2026/02/a-practical-guide-to-anonymisation-tools.pdf "2026-07-30")
+* [FORS (CH): A practical guide to anonymisation tools](https://forscenter.ch/wp-content/uploads/2026/02/a-practical-guide-to-anonymisation-tools.pdf "2026-07-30")
 
 ### How should the CARE principles be implemented in practice? Is there Norwegian resources?
 Useful resources:
