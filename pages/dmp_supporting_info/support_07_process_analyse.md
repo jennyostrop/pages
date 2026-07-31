@@ -96,7 +96,7 @@ In some cases data processing will affect e.g. privacy and such data security. F
 
 Resources on data anonymisation:
 * [CESSDA DMEG: Anonymisation](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
-* [Norwegian data protections agency: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
+* [Norwegian data protections agency: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2026/retningslinjer-om-anonymisering-pa-horing/)
 * [Amnesia anonymisation tool by OpenAire](https://amnesia.openaire.eu/)
 
 
@@ -116,7 +116,7 @@ Resources on version control:
 It is important to ensure that the data in your project is not corrupted through [transfer problems](https://en.wikipedia.org/wiki/Data_corruption), [data degradation (bitrot)](https://en.wikipedia.org/wiki/Data_degradation), vandalism, or human error. This is particularly important if data is transferred between sites/machines, and in complex projects with several people involved. Is it clear what should be done if an error is detected?
 
 Examples of procedures to monitor data quality:
-* One common procedure to detect data changes is to calculate checksums (e.g. [SHA256](https://confluence.wipo.int/confluence/display/dascg/e.5.-+Generate+File+Checksum+for+uploading+to+DAS)) that can be stored and compare after transfers and time
+* One common procedure to detect data changes is to calculate checksums (e.g. [SHA256](hhttps://hashgenerator.tools/blog/how-to-verify-sha256.html)) that can be stored and compare after transfers and time
 * Repeating measurements on the same samples/objects
 * In complex projects, it can be a good idea to define routines for if a
 

@@ -34,7 +34,7 @@ If conducting health research, consult the [Health Research Act](https://lovdata
 
 In this context also the following laws and regulations might be relevant:
 - [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-- [Comments to health research legislative work by the Norwegian government](https://www.regjeringen.no/globalassets/upload/hod/hra/veileder-til-helseforskningsloven.pdf)
+- [Comments to health research legislative work by the Norwegian Directorate for Health](https://www.helsedirektoratet.no/lov-og-forskrift/helseforskningsloven)
 - [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
 - [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
 - [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
@@ -54,7 +54,7 @@ According to GDPR there are two options for legal bases for processing of person
 > 4a.2
 > * Gain informed consent for preservation and/or sharing of personal data.
 
-Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
+Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://www.edpb.europa.eu/documents/legislative-opinion/opinion-32019-concerning-the-questions-and-answers-on-the-interplay_en) of the European data protection board.
 
 If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata (See e.g. the [GA4GH consent toolkit](https://www.ga4gh.org/product/consent-toolkit/) as an example for human genetic data)
 
@@ -63,7 +63,7 @@ If consent is used as legal basis for processing of personal data consider askin
 
 The relevance of anonymisation will depend on the data type and other available information. 
 
-- [Consult the Norwegian data protections agency guidance for data anonymisation.](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-01-23")
+- [Consult the Norwegian data protections agency guidance for data anonymisation.](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2026/retningslinjer-om-anonymisering-pa-horing/)
 
 > 4a.4
 > * Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
@@ -171,7 +171,7 @@ Missing:
 ##### Health research data
 - [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
 - [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-- [Comments to health research legislative work by the Norwegian government](https://www.regjeringen.no/globalassets/upload/hod/hra/veileder-til-helseforskningsloven.pdf)
+- [Comments to health research legislative work by the Norwegian Directorate for Health](https://www.helsedirektoratet.no/lov-og-forskrift/helseforskningsloven)
 - [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
 - [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
 - [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
@@ -191,7 +191,7 @@ Missing:
 - [Datatilsynet: Grunleggende personvernprinsipper - Dataminimering (in Norwegian)](https://www.datatilsynet.no/rettigheter-og-plikter/personvernprinsippene/grunnleggende-personvernprinsipper/dataminimering/)
 
 #### Data Anonymization
-- [Datatilsynet: The anonymisation of personal data](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/) also as [pdf: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
+- [Datatilsynet: The anonymisation of personal data](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2026/retningslinjer-om-anonymisering-pa-horing/) also as [pdf: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
 - [Sikt: Carrying out a project without processing personal data](https://sikt.no/en/personvernhandbok-forskning/carrying-out-project-without-processing-personal-data "2024-07-18")
 - Sikt archive accepts anonymized and directly/indirectly identifiable quantitative data. Sikt does not accept anonymized qualitative data. [Types of data to be archived with Sikt](https://sikt.no/en/tjenester/arkivere-data/what-kind-data-can-be-archived-sikt "2024-07-18")
 - [Amnesia Anonymization Tool (OpenAire)](https://amnesia.openaire.eu/)
@@ -475,7 +475,7 @@ It is less common that the institutions have ethics committees.
 [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
 Be aware of international codes of conduct including but not limited to:
-- [CARE principles from GIDA](https://www.gida-global.org/care) for Indigenous Data Governance
+- [CARE principles from GIDA](https://www.gida-global.org/careprinciples) for Indigenous Data Governance
 - [Indigenous data, consent](https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
 - [Nagoya protocol](https://www.cbd.int/abs) on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity
 - [WMA Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/) on Ethical Principles for Medical Research Involving Human Subjects

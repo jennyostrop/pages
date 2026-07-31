@@ -24,7 +24,7 @@ other:
 ## Write your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard
 The DMP questionnaire is implemented in the DMP tool **Data Stewardship Wizard (DSW)**/ **FAIR Wizard** (DSW as software-as-a-service). It is available on the following instances:
 * Researchers at NTNU, UiB, UiO og UiT can use the pilot instance [FAIR Wizard Norway](https://norway.fair-wizard.com/). The direct links on this web resource are linking to this instance. For support, contact your [local research data support](/pages/support_00_local_disc).
-* Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://elixir.no/services-2/data-stewardship-wizard). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/helpdesk).
+* Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://norway.dsw.elixir-europe.org/). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/research-support/).
 * [Other FAIR Wizard and Data Stewardship Wizard instances in Norway](/dmp_wizard/)
 
 ## Start with a new DMP
@@ -53,7 +53,7 @@ For less complex projects:
 * **Minimum and ELSI** ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application. 
 
 #### Advanced questionnaire setup 
-Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance](https://elixir.no/services-2/data-stewardship-wizard).
+Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance](https://norway.dsw.elixir-europe.org/).
 
 To use one of the above described templates:
 1. Start with *From knowledge model* and select **Norwegian DSW Knowledge Model**

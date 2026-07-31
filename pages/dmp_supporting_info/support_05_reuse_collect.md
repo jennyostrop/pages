@@ -80,7 +80,7 @@ Useful resources (non-exhaustive):
 * [microdata.no](https://www.microdata.no/) and [sikt.no/surveybanken](https://sikt.no/surveybanken) are Sikt services to access register data and survey data, respectively
 * [helsedata.no](https://www.helsedata.no) gives access to both open health data and datasets with restricted access
 * Portals for national studies such as [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
-* National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no/search/front?q=&all=1) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
+* National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
 
 **Data in digital archives and collections**\
 Useful resources (non-exhaustive):

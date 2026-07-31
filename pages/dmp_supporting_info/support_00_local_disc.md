@@ -56,9 +56,7 @@ Several Norwegian research infrastructures including national nodes of ESFRI (Eu
 ### Biobank Norway - Biobanking
 Biobank Norway provides the ELSI Helpdesk for Biobanking and advices on regulations and standards for ethical, legal, and societal issues. Biobank Norway is the Norwgian node of the European [Biobanking and BioMolecular resources Research Infrastructure (BBMRI ERIC)](https://www.bbmri-eric.eu/).
 
-Homepage: [Biobank Norway](https://bbmri.no/ "2024-07-19")
-
-Helpdesk: [ELSI Help Desk](https://bbmri.no/help-desk-elsi "2024-07-19")
+Homepage: [Biobank Norway](https://bbmri.no/ "2026-07-31")
 
 ### CESSDA - Social sciences
 The Consortium for European Social Science Data Archives (CESSDA) has its main office in Norway.
@@ -77,7 +75,7 @@ ELIXIR Norway provides data management support as well as e-infrastructure, tool
 
 Homepage: [ELIXIR Norway](https://elixir.no/ "2024-07-12")
 
-Helpdesk: [support@elixir.no](https://elixir.no/helpdesk "2024-07-12")
+Helpdesk: [support@elixir.no](https://elixir.no/research-support/ "2026-07-31")
 
 Knowledge resource: [Norwegian Life Science RDM LookUp](https://elixir.no/rdm-lookup/ "2024-07-12")
 
