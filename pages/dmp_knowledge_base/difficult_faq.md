@@ -67,7 +67,7 @@ Relevant literature:
 * Which methodology is applied to extract information and their documentation (e.g. coding)?
 * The project will likely have working documents such as manuscripts. How are they organized, named, stored, backed-up and exchanged between collaboration partners?
 * Is there ethical aspects or Intellectual Property Rights (IPR) to be considered and documented?
-* Text is data, images are data… Check out the [Discipline-rooted approaches to research data management](/pages/support_00_local_disc#discipline-rooted-approaches-to-research-data-managmement) for inspiration.
+* Text is data, images are data… Check out the [Discipline-rooted approaches to research data management](/pages/support_00_local_disc#discipline-rooted-approaches-to-research-data-management) for inspiration.
 
 ### I feel it is too much work to prepare my data for archiving in a domain-specific archive
 Subject-specific (discipline-specific, domain-specific) repositories are the first choice to ensure data will be reusable in your research community, as metadata follow domain standards. Comparison between datasets or reuse at large scale (e.g. meta-analysis) is easiest if subject-specific repositories are used. [Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are curated registries and can help identifying suitable subject-specific repositories.
@@ -77,10 +77,10 @@ Research data repositories commonly have guides/help-pages which makes it easier
 ### What format should I store my research data in?
 You should consider a format which is common to the research discipline you are working in, which also adheres to [Open Science standards.](https://opendatahandbook.org/guide/en/appendices/file-formats/)
 
-### What metadata should I consider collecting in my reseach project?
+### What metadata should I consider collecting in my research project?
 If you choose to share your data in a long term archive, it is highly likely this archive has a set of guidelines, wherein the necessary metadata are described. Making yourself familiar with relevant metadata schemes early in the project is recommended.
 
-If you are unsure about which metadata to collect, a minimal set is provided in [The Dublin Core Metadata standard](https://www.dublincore.org/), which originally comprosed of a [collection of 15 "essential" terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3).
+If you are unsure about which metadata to collect, a minimal set is provided in [The Dublin Core Metadata standard](https://www.dublincore.org/), which originally composed of a [collection of 15 "essential" terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3).
 
 
 ## Questions on research ethics & restrictions to data sharing
@@ -106,10 +106,24 @@ Institutional resources on IPR:
 * [UiO: Policy for intellectual property rights at the University of Oslo](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-11-20")
 * [UiT: Regulations for securing and management of work results at UiT](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-11-20")
 
-### Is my data still personal if it has been pseudonymised and the key has been deleted/is stored in a safe system
+### Is my data still personal if it has been pseudonymized and the key has been deleted/is stored in a safe system
 Useful resources:
+* [Research Data Alliance Norway (NO-RDA): Veileder for deling av forskningsdata med personopplysninger *Norwegian only*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
 * [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-11-20")
+* [EDPB Guidelines 02/2026 on Psudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30")
+* [researchdata.se (SE): Data containing personal information - FAQ and common misconceptions](https://researchdata.se/en/manage-data/data-containing-personal-information/frequently-asked-questions-and-common "2026-07-30")
+* [FORS (CH): Data anonymisation: legal, ethical, and strategic considerations](https://doi.org/10.24449/FG-2020-00011)
+
+Recent developments:
+* [EDPB Guidelines 02/2026 on Anonymisation (open for consultation until 10/2026)](https://www.edpb.europa.eu/public-consultations/guidelines-022026-on-anonymisation_en#no-back "2026-07-30")
+* [Press release: Judgment of the Court in Case C-413/23 P, EDPS v SRB (Concept of personal data), 2025](https://curia.europa.eu/site/upload/docs/application/pdf/2025-09/cp250107en.pdf "2026-07-30")
+
+Anonymization tools:
+* [FORS (CH): A practical guide to anonymisation tools](https://forscenter.ch/wp-content/uploads/2026/02/a-practical-guide-to-anonymisation-tools.pdf "2026-07-30")
 
 ### How should the CARE principles be implemented in practice? Is there Norwegian resources?
-For research data generated by or about the Sámi people and Sámi society: 
+Useful resources:
+* [National Research Ethics Committees - Topic: Indigenous Peoples and National Minorities](https://www.forskningsetikk.no/en/resources/topic-indigenous-peoples-and-national-minorities/ "2025-10-06")
+
+For research data generated by or about the Sámi people and Sámi society:
 * [GIDA-Sápmi network - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403&p_document_id=674134 "2024-11-20")
