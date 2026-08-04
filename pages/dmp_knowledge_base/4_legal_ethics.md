@@ -63,7 +63,8 @@ If consent is used as legal basis for processing of personal data consider askin
 
 The relevance of anonymisation will depend on the data type and other available information. 
 
-- [Consult the Norwegian data protections agency guidance for data anonymisation.](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2026/retningslinjer-om-anonymisering-pa-horing/)
+- [Consult the Norwegian data protections agency guidance for data anonymisation. (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-11-20")
+- [EDPB Guidelines 02/2026 on Psudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30"))
 
 > 4a.4
 > * Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
