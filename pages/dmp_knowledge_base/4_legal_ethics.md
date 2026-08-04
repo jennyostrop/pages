@@ -191,7 +191,7 @@ Missing:
 - [Datatilsynet: Grunleggende personvernprinsipper - Dataminimering (in Norwegian)](https://www.datatilsynet.no/rettigheter-og-plikter/personvernprinsippene/grunnleggende-personvernprinsipper/dataminimering/)
 
 #### Data Anonymization
-- [Datatilsynet: The anonymisation of personal data](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2026/retningslinjer-om-anonymisering-pa-horing/) also as [pdf: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
+- [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
 - [Sikt: Carrying out a project without processing personal data](https://sikt.no/en/personvernhandbok-forskning/carrying-out-project-without-processing-personal-data "2024-07-18")
 - Sikt archive accepts anonymized and directly/indirectly identifiable quantitative data. Sikt does not accept anonymized qualitative data. [Types of data to be archived with Sikt](https://sikt.no/en/tjenester/arkivere-data/what-kind-data-can-be-archived-sikt "2024-07-18")
 - [Amnesia Anonymization Tool (OpenAire)](https://amnesia.openaire.eu/)
