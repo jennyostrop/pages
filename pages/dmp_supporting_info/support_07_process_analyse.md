@@ -95,6 +95,7 @@ Examples of information to be added to metadata (non-exhaustive):
 In some cases data processing will affect e.g. privacy and such data security. For example, it might not longer be possible to identify individuals from aggregated data. However, in some cases only the processed data, but not the raw data might allow easy access to [sensitive information](/pages/support_03_legal_ethics#will-sensitive-information-apart-from-special-category-personal-data-be-collectedprocessed).
 
 Resources on data anonymisation:
+* [Research Data Alliance Norway (NO-RDA): Veileder for deling av forskningsdata med personopplysninger *Norwegian only*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
 * [CESSDA DMEG: Anonymisation](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
 * [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
 * [EDPB Guidelines 02/2026 on Pseudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30")
