@@ -97,7 +97,7 @@ In some cases data processing will affect e.g. privacy and such data security. F
 Resources on data anonymisation:
 * [CESSDA DMEG: Anonymisation](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
 * [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-11-20")
-* [EDPB Guidelines 02/2026 on Psudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30"))
+* [EDPB Guidelines 02/2026 on Pseudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30")
 * [Amnesia anonymisation tool by OpenAire](https://amnesia.openaire.eu/)
 
 
