@@ -96,6 +96,7 @@ Responsibility for DMP revisions can be specified based on the contributor list.
 
 ### Have you published, or will you publish (versions) of this DMP?
 You can publish the data management plan and its updates in an open repository like [Zenodo](https://zenodo.org/). By doing this your DMP will be permanently archived, get a DOI, and one can easily share and refer to the plan in collaborations and future grant applications. Publishing a data management plan is also best practice for research transparency and open research.
+Another option would be to publish the DMP in specialised journals or publishing platforms such as [RIO](https://riojournal.com/) as a full peer-reviewed publication, as also recommended by Horizon Europe.
 
 For projects with information security requirements (e.g. dual use research, protection of intellectual property rights and/or commercial interests), the DMP itself could contain sensitive information. If applicable, the data management plan should not be published.
 

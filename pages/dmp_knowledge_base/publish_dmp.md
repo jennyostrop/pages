@@ -56,8 +56,12 @@ Missing:
 [What a data management plan should include]\
 We also recommend assigning your data management plan a persistent identifier, such as a DOI. Several services for data management plans offer this.
 
+#### [Horizon Europe Program Guide  V5.1 – 15.09.2025](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
+> A good practice regarding DMPs is to register them as a non-restricted public deliverables to make them openly accessible, unless legitimate reasons exist to keep them confidential. An additional good practice is to publish the DMP in specialised journals or publishing platforms such as [RIO](https://riojournal.com/) etc., or to deposit them in DMP-specific public repositories [...]. (p.48)
+
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - not covered
+
 
 ---
 <!--additional explanations-->
