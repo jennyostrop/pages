@@ -230,7 +230,7 @@ Will the data be made openly available? If only a selection of the data will be 
 Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?]
  Why is this important? If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Each research institution must ensure that research at their institution is in accordance with recognised research ethical norms. It is therefore important that researchers are familiar with, and comply with, relevant and recognised research ethical guidelines. Note that in interdisciplinary projects it may be relevant to refer to guidelines for several subject areas. For more information about the ethical responsibilities of research and research institutions, see the Research Ethics Act.
 
 #### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -377,7 +377,7 @@ Missing:
 	- [Rapport Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (2024) *Norwegian only*](https://www.forskningsradet.no/siteassets/publikasjoner/2024/sluttrapport_helhetlig-forskningssystem.pdf)
 - Export control regulations
 	- Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
-	- [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
+	- [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-technology-transfer-and-international-sanctions)
 	- [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
 - Intellectual Property Rights (IPR) or confidentiality issues
 	- Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
@@ -423,7 +423,7 @@ Who has ownership of the data? (Normally UiT, unless ownership has been agreed o
 
 How will the data be licensed for reuse? (According to section 4.5 in the UiT guidelines, research data shall be equipped with licenses for access, reuse, and dissemination. These licenses should be internationally recognised and set as few limitations on the data as possible. The researcher must ensure that licenses and applicable conditions for the use or sharing of third party data are complied with.)
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Generally, the rights to project results should be transferred from the researchers (and possibly others who have helped create such results) to the institution(s) where the researchers are employed. This is in accordance with the Employees’ Inventions Act, and in accordance with the objectives of the Act relating to universities and university colleges (see in particular §1-5, Academic freedom and responsibility). See also the Norwegian Research Council’s Policy on Intellectual Property Rights.
 
 #### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -567,7 +567,7 @@ Is an ethical review (for example by an ethics committee/REK or approval of use 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 Are you going to collect informed consent to store and share the data? If so, how? How are you going to secure confidentiality and identity protection?
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Add any comments on issues related to for example: research on human embryos and fetuses, and/or human cells and tissues; collection of personal data and obtaining consent; animal research; research in non-EU countries; unintended effects on the environment, health and safety; and the potential misuse of research results. See also [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

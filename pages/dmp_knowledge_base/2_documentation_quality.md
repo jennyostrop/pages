@@ -152,7 +152,7 @@ What standards and methods will be used for data collection/generating?
 
 What is the expected file size for the data?
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Metadata is data about data, i.e. information that describes other information through a set of attributes. Note that using a standard structures information in machine-readable form, which increases the visibility and retrievability of your data in the future. The RDA (Research Data Alliance) has an overview of both general and subject-specific metadata standards that can be applied to research data
 
 It can be helpful to be consistent in naming files and folders during the project, e.g. by using file and folder names that clearly describes the content, what version they are, and when they were created. This makes it easier to identify the file(s) containing the information you are looking for. It also helps you keep control over different versions of files, and it makes it easier for others to understand and navigate through your work files.
@@ -264,7 +264,7 @@ When will the data be collected/generated?
 Is there need for extra hardware or software?
 Is there need for special expertise for collecting/generating data?
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Examples of measures to control and ensure data quality may be the use of standardized methods and protocols to capture observations; checking precision and calibration of instruments; quality-check equipment to be used for audio or video recording; make multiple measurements, observations or samples; use standardized interview protocols and/or computer-assisted software when conducting interviews; and using standardized and consistent procedures when digitizing or transcribing data.
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

@@ -114,7 +114,7 @@ Who is responsible for follow-up and revision of this data management plan? (Nor
 
 Who is responsible for each activity? (May vary for collection, documentation, archiving etc.)
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Describe the research questions, issues and hypotheses that are addressed in the project and state how the data collection / generation can shed light on these issues.
 
 The institution responsible for research project has overall responsibility and must ensure that research at the institution takes place in accordance with recognised research ethical norms. It must also ensure compliance with relevant legislation and regulations when carrying out the project. If institution responsible for the research has an service agreement with us for the Plan Archive service, then administrative staff with user rights will have read-only access to your data management plan once it created. The Plan Archive provides the institution an overview of all data management plans where their institution is listed as the institution responsible for the research project.
