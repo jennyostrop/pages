@@ -9,7 +9,7 @@ description: Supporting DMP Information, process data, data processing, analyse 
 sidebar: dmp_supporting_information
 dsw:
 - name: Processing, analysing and interpreting data
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=50f9d580-3e62-434b-81ff-86daed56aca8
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=50f9d580-3e62-434b-81ff-86daed56aca8
 cessda:
 - name: Process
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process
@@ -95,8 +95,10 @@ Examples of information to be added to metadata (non-exhaustive):
 In some cases data processing will affect e.g. privacy and such data security. For example, it might not longer be possible to identify individuals from aggregated data. However, in some cases only the processed data, but not the raw data might allow easy access to [sensitive information](/pages/support_03_legal_ethics#will-sensitive-information-apart-from-special-category-personal-data-be-collectedprocessed).
 
 Resources on data anonymisation:
+* [Research Data Alliance Norway (NO-RDA): Veileder for deling av forskningsdata med personopplysninger *Norwegian only*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
 * [CESSDA DMEG: Anonymisation](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
-* [Norwegian data protections agency: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
+* [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
+* [EDPB Guidelines 02/2026 on Pseudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30")
 * [Amnesia anonymisation tool by OpenAire](https://amnesia.openaire.eu/)
 
 
@@ -116,7 +118,7 @@ Resources on version control:
 It is important to ensure that the data in your project is not corrupted through [transfer problems](https://en.wikipedia.org/wiki/Data_corruption), [data degradation (bitrot)](https://en.wikipedia.org/wiki/Data_degradation), vandalism, or human error. This is particularly important if data is transferred between sites/machines, and in complex projects with several people involved. Is it clear what should be done if an error is detected?
 
 Examples of procedures to monitor data quality:
-* One common procedure to detect data changes is to calculate checksums (e.g. [SHA256](https://confluence.wipo.int/confluence/display/dascg/e.5.-+Generate+File+Checksum+for+uploading+to+DAS)) that can be stored and compare after transfers and time
+* One common procedure to detect data changes is to calculate checksums (e.g. [SHA256](hhttps://hashgenerator.tools/blog/how-to-verify-sha256.html)) that can be stored and compare after transfers and time
 * Repeating measurements on the same samples/objects
 * In complex projects, it can be a good idea to define routines for if a
 

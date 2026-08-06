@@ -174,7 +174,7 @@ On these pages and in the affiliated data management plan template, the term 'ar
 > * genetic data, biometric data processed solely to identify a human being;
 > * health-related data;
 > * data concerning a person’s sex life or sexual orientation.
-[European Commission: What personal data is considered sensitive?](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/sensitive-data/what-personal-data-considered-sensitive_en)
+[European Commission: What personal data is considered sensitive?](https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/legal-grounds-processing-data_en)
 
 
 ### Trusted repository

@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: 'Get local/disciplinary support'
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Korbinian Bösl, Sagnik Sengupta]
 page_id: support_00_local_disc
 description:
 affiliations:
@@ -26,12 +26,32 @@ In addition, some Norwegian research infrastructures provide RDM support service
 
 ## Institutional RDM support (alphabetical order)
 
-Currently, we have only included the project partners in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
+Currently, we have only included selected Norwegian institutions in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
+
+### INN - University of Inland Norway
+[INN research data support pages](https://www.inn.no/english/library/research-support/research-data)
+
+Helpdesk: [datateam@inn.no](mailto:datateam@inn.no)
+
+### Nord University
+[Nord University research data support pages](https://www.nord.no/en/research/researchers/research-data)
+
+Helpdesk: [research-data@nord.no](mailto:research-data@nord.no)
 
 ### NTNU - Norwegian University of Science and Technology (NTNU)
 [Research Data @NTNU](https://i.ntnu.no/researchdata)
 
 Helpdesk: [research-data@ntnu.no](mailto:research-data@ntnu.no)
+
+### OsloMet - Oslo Metropolitan University
+[OsloMet research data support pages](https://ansatt.oslomet.no/en/lagring-av-forskningsdata)
+
+Helpdesk: [ub.forskningsstotte@oslomet.no](mailto:ub.forskningsstotte@oslomet.no)
+
+### UiA - University of Agder
+[UiA research data support pages](https://libguides.uia.no/Research-Data)
+
+Helpdesk: [researchsupport@uia.no](mailto:researchsupport@uia.no)
 
 ### UiB - University of Bergen
 [UiB Support services for research data](https://www.uib.no/en/researchdata)
@@ -42,6 +62,11 @@ Helpdesk: [research-data@uib.no](mailto:research-data@uib.no)
 [UiO Research Data Management](https://www.uio.no/english/for-employees/support/research/research-data-management/)
 
 Helpdesk: [research-data@uio.no](mailto:research-data@uio.no)
+
+### UiS - University of Stavanger
+[UiS research data support pages](https://www.uis.no/en/library/researchdata)
+
+Helpdesk: [datahandtering@uis.no](mailto:datahandtering@uis.no)
 
 ### UiT - UiT The Arctic University of Norway
 [UiT Research data portal](https://en.uit.no/research/research-dataportal)
@@ -56,9 +81,7 @@ Several Norwegian research infrastructures including national nodes of ESFRI (Eu
 ### Biobank Norway - Biobanking
 Biobank Norway provides the ELSI Helpdesk for Biobanking and advices on regulations and standards for ethical, legal, and societal issues. Biobank Norway is the Norwgian node of the European [Biobanking and BioMolecular resources Research Infrastructure (BBMRI ERIC)](https://www.bbmri-eric.eu/).
 
-Homepage: [Biobank Norway](https://bbmri.no/ "2024-07-19")
-
-Helpdesk: [ELSI Help Desk](https://bbmri.no/help-desk-elsi "2024-07-19")
+Homepage: [Biobank Norway](https://bbmri.no/ "2026-07-31")
 
 ### CESSDA - Social sciences
 The Consortium for European Social Science Data Archives (CESSDA) has its main office in Norway.
@@ -77,7 +100,7 @@ ELIXIR Norway provides data management support as well as e-infrastructure, tool
 
 Homepage: [ELIXIR Norway](https://elixir.no/ "2024-07-12")
 
-Helpdesk: [support@elixir.no](https://elixir.no/helpdesk "2024-07-12")
+Helpdesk: [support@elixir.no](https://elixir.no/research-support/ "2026-07-31")
 
 Knowledge resource: [Norwegian Life Science RDM LookUp](https://elixir.no/rdm-lookup/ "2024-07-12")
 
@@ -132,7 +155,7 @@ Helpdesk: [kontakt@sikt.no](mailto:kontakt@sikt.no)
 
 
 ---
-## Discipline-rooted approaches to research data managmement
+## Discipline-rooted approaches to research data management
 Scientific disciplines have different traditions for recognizing and handling research data. Here, we list some discipline-rooted knowledge resources and publications which may help identifying research data and select approaches to research data management in a given discipline.
 
 Sorted by research discipline (non-exhaustive):

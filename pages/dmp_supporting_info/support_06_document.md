@@ -9,7 +9,7 @@ description: Supporting DMP Information, data collection, data creation, data ge
 sidebar: dmp_supporting_information
 dsw:
 - name: Responsibilities and resources
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b1df3c74-0b1f-4574-81c4-4cc2d780c1af
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=b1df3c74-0b1f-4574-81c4-4cc2d780c1af
 cessda:
 - name: Documentation and metadata
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata
@@ -73,7 +73,7 @@ Using defined terms ensures that your data is described consistently, reducing a
 To enter information on vocabularies/ontologies/terminologies that will be applied, vocabularies/ontologies/terminologies from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard&recordType=terminology_artefact) can be selected in the Wizard.
 
 For some disciplines, look-up services can help identify relevant vocabularies/ontologies/terminologies. When in doubt of relevance, please look for usage by others within your field, like in published journal articles or connected to published datasets.
-* [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/)
+* [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset)
 * [EMBL-EBI Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols4/index)
 * [CESSDA and service providers: CESSDA vocabulary service](https://vocabularies.cessda.eu/)
 

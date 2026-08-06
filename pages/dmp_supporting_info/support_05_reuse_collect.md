@@ -9,7 +9,7 @@ description: Supporting DMP Information, reusing data, data reuse, data re-use, 
 sidebar: dmp_supporting_information
 dsw:
 - name: Reusing and collecting data
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=43e2efe4-016c-4a20-8b94-526ae1799afa
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=43e2efe4-016c-4a20-8b94-526ae1799afa
 cessda:
 - name: Discover
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/7.-Discover
@@ -46,14 +46,14 @@ Depending on the discipline and specifics of a project, a data unit may already 
 ## Question-specific guidance
 
 ### The project will (re)use datasets or records available in a repository/registry/archive
-Many research projects are using existing digital sources for producing knowledge. For example, existing data can be used as reference, be combined with other data, and datasets can be approached with novel questions. Often, pre-existing data will be combined with novel data collected or produced in a project.
+Many research projects are using pre-existing digital sources for producing knowledge. For example, existing data can be used as reference, be combined with other data, and datasets can be approached with novel questions. Often, pre-existing data will be combined with novel data collected or produced in a project.
 
-As many of the same considerations apply, also access to materials that are commonly referred to as 'records' or 'sources' rather than 'data' should be included here, such as material in public archives, media archives, legal resources, or large amounts of digital literature.\
+As many of the same considerations apply, also access to materials that are commonly referred to as 'records' or 'sources' rather than 'data' should be included here, such as material in public archives, media and social media archives, legal resources, or large amounts of digital literature.\
 If digital sources are not persistent, additional considerations on versioning and preserving a copy should be taken.
 
 Not all data from conducted research within your research field will be open and unrestricted. But very often, even restricted and closed data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like.
 
-There can of course be a number of reasons to discard the idea of reusing data in your project, like lack of relevance for existing data etc. Taking the time to identify such reasons (when designing your project) will most often motivate the necessity of collecting new data both for yourself, project members and collaborators. If the idea of reusing data is discarded, funder guidelines ask for a brief description why building on existing sources is not relevant or applicable for the project.
+There can of course be a number of reasons to discard the idea of reusing data in your project, like lack of relevance for existing data etc. Taking the time to identify such reasons (when designing your project) will most often motivate the necessity of collecting new data both for yourself, project members and collaborators. If the idea of reusing data is discarded, funder guidelines often ask for a brief description why building on existing sources is not relevant or applicable to the project.
 
 You can consult the chapters on data discovery and existing data in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook](support_05_reuse_collect#further-resources) for inspiration.
 
@@ -67,6 +67,8 @@ Useful approaches to identify scientific datasets:
 * Datasets in relevant discipline-specific data archives
 	* Where do researchers in the same field publish their data? Check data availability statements in publications or publication guidelines of relevant journals.
 	* Curated research data registries that allow filtering of discipline: [re3data.org](https://www.re3data.org/), [fairsharing.org](https://fairsharing.org/)
+	* Reference datasets in added-value databases (e.g. in bioinformatics)
+	* Discipline or topic-specific data catalogues
 * Metasearch-services for datasets. Different search engines have different advantages and disadvantages, it can be useful to compare results. Often the best choice to identify data in institutional and generic archives.
 	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE explore](https://explore.openaire.eu)
 	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/data-citation-index), [Dimensions](https://app.dimensions.ai/)
@@ -80,7 +82,7 @@ Useful resources (non-exhaustive):
 * [microdata.no](https://www.microdata.no/) and [sikt.no/surveybanken](https://sikt.no/surveybanken) are Sikt services to access register data and survey data, respectively
 * [helsedata.no](https://www.helsedata.no) gives access to both open health data and datasets with restricted access
 * Portals for national studies such as [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
-* National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no/search/front?q=&all=1) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
+* National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
 
 **Data in digital archives and collections**\
 Useful resources (non-exhaustive):
@@ -89,21 +91,31 @@ Useful resources (non-exhaustive):
 	* [UiT Universitetsbiblioteket Spesialsamlingene *Norwegian only*](https://www.uib.no/ub/spesialsamlingene)
 	* [UiO Library Special collections](https://www.ub.uio.no/english/using/digitisation/special-collections/index.html)
 	* [UiT Universitetsbiblioteket Spesialsamlinger *Norwegian only*](https://uit.no/ub/spesialsamlinger)
+* [Norges dokumentarv](https://www.kulturdirektoratet.no/samlinger/norges-dokumentarv)
 * [arkivverket.no](https://www.arkivverket.no/utforsk-arkivene)
 * [digitaltmuseum.no](https://digitaltmuseum.no/)
 * [europeana.eu](https://www.europeana.eu/en)
 
 #### Does the data/record/source have a license assigned or clear reuse conditions?
-Most of the material found online is either copyright protected or protected through related rights, without being assigned an explicit license to allow further use. This can be confusing for those who want to reuse the material and is one of the reasons you are advised to add a license to your own work, explicitly stating what others are allowed to do and not.
-Knowledge of the [Norwegian copyright act (in Norwegian)](https://lovdata.no/dokument/NL/lov/2018-06-15-40) can be helpful when using copyrighted material in research. There is not fair use clause in Norwegian copyright law, and no general access to re-publish copyrighted material as research data. 
+Most of the material found online is either copyright protected or protected through related rights. Knowledge of the [Norwegian copyright act *in Norwegian*](https://lovdata.no/dokument/NL/lov/2018-06-15-40){:lang="no"} can be helpful when using copyrighted material in research. There is not fair use clause in Norwegian copyright law, and no general access to re-publish copyrighted material as research data.
+
+Often, data reuse conditions will be explicitly stated. If you have found relevant material online, the first step is to check whether it is made available with a standard license or terms of reuse.\
+In other cases, using datasets may require contract work or conditions are not obvious. It is your responsibility to ensure that your intended research use is permitted. If contracts or data use agreements have to be signed, this usually involves the research-performing institution and investigating timelines is recommended to avoid delays in the project.
+
+Examples of data assigned standard licenses:
+* [DataverseNO](https://dataverse.no/) has [CC0](https://creativecommons.org/publicdomain/zero/1.0/) as the standard terms of use
+* [Statbank from Statistics Norway (SSB)](https://www.ssb.no/en) has licensed data and public APIs under [CC BY 4.0](https://www.ssb.no/en/diverse/lisens)
+
+Examples of data access with certain requirements to purpose and how data will be managed and access:
+* [Mikrodata from Statistics Norway (SSB)](https://www.microdata.no/en/bli-bruker/) is available to employees at Norwegian Higher Education institutions
+* [HUNT data](https://www.ntnu.edu/hunt/data) requires a REK approval and application to the HUNT Data Access Committee
  
 **Work in the public domain**\
 If you work with historical sources where the copyright holder(s) has been dead for 70 years or more, the material is in the public domain. There are exceptions for some material, including databases (15 years) and photos not considered to have a threshold of originality (50 years).
 It will then be possible to share the material as research data in an open archive, using a [public domain mark](https://creativecommons.org/public-domain/pdm/).
  
 **Norwegian digital sources**\
-If you plan to collect on-line material from Norwegian sources, it might be of value to have a dialogue with the Web Archive about scarping and preserving the material.
-Nettarkivet [the Norwegian Web Archive (in Norwegian)](https://www.nb.no/en/collection/web-archive/)  at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act [Pliktavleveringslova, (in Norwegian)](https://lovdata.no/dokument/NL/lov/1989-06-09-32). Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian.
+If you plan to collect on-line material from Norwegian sources, it might be of value to have a dialogue with the Norwegian Web Archive about scarping and preserving the material. The [Norwegian Web Archive (Nettarkivet) *in Norwegian*](https://www.nb.no/en/collection/web-archive/) at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act [Pliktavleveringslova *in Norwegian*](https://lovdata.no/dokument/NL/lov/1989-06-09-32). Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian.
  
 **Contacting the rights holder**\
 If you plan to collect digital content from a limited number of content producers, consider contacting the rights holder and ask for permission to share the material as research data and part of your research. This is not always possible, but without permissions sharing the data openly at a later stage in the research will be difficult.
