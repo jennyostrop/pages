@@ -108,7 +108,7 @@ If collecting data in the field (out of office), how will the data be safely tra
 - What kind of folder structure and filename conventions will be used?
 - If collecting data in the field (out of office), how will the data be safely transferred from the field to the main storage unit?
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Security classification is a classification of data collections into classes based on the need for protection. Based on the security classification of each data package, you will get suggestions for secure data collection, storage and file transfer. There are four classes of security and confidentiality. These classes also apply to the processing and storage of research data.
 
 Open (Green) category means that data can be accessible to anyone without special access rights.
@@ -233,7 +233,7 @@ Missing:
 - National policies
 - Classification of information: Institutional policies and storage guides
 	- [Klassifisering av infomasjon: Sektorstandard for universiteter, høgskoler og forskningsinstitutter](https://cms.sikt.no/sites/default/files/2024-10/Veileder%20i%20ledelsessystem%20for%20informasjonssikkerhet.pdf "2025-09-19")
-	- Dual use research: Report [Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (NFR, 2024)](https://www.forskningsradet.no/nyheter/2024/fire-anbefalinger-for-et-helhetlig-forskningssystem-for-apen-skjermet-og-gradert-forskning/ "2024-09-11")
+	- Dual use research: Report [Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (NFR, 2024)](https://www.forskningsradet.no/siteassets/publikasjoner/2024/sluttrapport_helhetlig-forskningssystem.pdf "2026-07-31")
 	- Export control: Guidelines for [International research and innovation cooperation](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation "2024-10-03")
 - Routines for data recovery
 - Understanding data security measures
@@ -261,7 +261,7 @@ Does your data include sensitive data? (If yes, also answer the questions below.
 Are you going to collect informed consent to store and share the data? If so, how? 
 How are you going to secure confidentiality and identity protection?
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 State whether your project contains research on human subjects. As a main rule, you are obligated to inform the person(s) whose personal data you are going to collect. Read more about information and consent at Data Protection Services.
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

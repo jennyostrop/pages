@@ -34,7 +34,7 @@ If conducting health research, consult the [Health Research Act](https://lovdata
 
 In this context also the following laws and regulations might be relevant:
 - [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-- [Comments to health research legislative work by the Norwegian government](https://www.regjeringen.no/globalassets/upload/hod/hra/veileder-til-helseforskningsloven.pdf)
+- [Comments to health research legislative work by the Norwegian Directorate for Health](https://www.helsedirektoratet.no/lov-og-forskrift/helseforskningsloven)
 - [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
 - [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
 - [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
@@ -54,7 +54,7 @@ According to GDPR there are two options for legal bases for processing of person
 > 4a.2
 > * Gain informed consent for preservation and/or sharing of personal data.
 
-Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
+Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://www.edpb.europa.eu/documents/legislative-opinion/opinion-32019-concerning-the-questions-and-answers-on-the-interplay_en) of the European data protection board.
 
 If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata (See e.g. the [GA4GH consent toolkit](https://www.ga4gh.org/product/consent-toolkit/) as an example for human genetic data)
 
@@ -63,7 +63,8 @@ If consent is used as legal basis for processing of personal data consider askin
 
 The relevance of anonymisation will depend on the data type and other available information. 
 
-- [Consult the Norwegian data protections agency guidance for data anonymisation.](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-01-23")
+- [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
+- [EDPB Guidelines 02/2026 on Psudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30"))
 
 > 4a.4
 > * Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
@@ -171,7 +172,7 @@ Missing:
 ##### Health research data
 - [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
 - [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-- [Comments to health research legislative work by the Norwegian government](https://www.regjeringen.no/globalassets/upload/hod/hra/veileder-til-helseforskningsloven.pdf)
+- [Comments to health research legislative work by the Norwegian Directorate for Health](https://www.helsedirektoratet.no/lov-og-forskrift/helseforskningsloven)
 - [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
 - [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
 - [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
@@ -191,7 +192,7 @@ Missing:
 - [Datatilsynet: Grunleggende personvernprinsipper - Dataminimering (in Norwegian)](https://www.datatilsynet.no/rettigheter-og-plikter/personvernprinsippene/grunnleggende-personvernprinsipper/dataminimering/)
 
 #### Data Anonymization
-- [Datatilsynet: The anonymisation of personal data](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/) also as [pdf: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
+- [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
 - [Sikt: Carrying out a project without processing personal data](https://sikt.no/en/personvernhandbok-forskning/carrying-out-project-without-processing-personal-data "2024-07-18")
 - Sikt archive accepts anonymized and directly/indirectly identifiable quantitative data. Sikt does not accept anonymized qualitative data. [Types of data to be archived with Sikt](https://sikt.no/en/tjenester/arkivere-data/what-kind-data-can-be-archived-sikt "2024-07-18")
 - [Amnesia Anonymization Tool (OpenAire)](https://amnesia.openaire.eu/)
@@ -230,7 +231,7 @@ Will the data be made openly available? If only a selection of the data will be 
 Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?]
  Why is this important? If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Each research institution must ensure that research at their institution is in accordance with recognised research ethical norms. It is therefore important that researchers are familiar with, and comply with, relevant and recognised research ethical guidelines. Note that in interdisciplinary projects it may be relevant to refer to guidelines for several subject areas. For more information about the ethical responsibilities of research and research institutions, see the Research Ethics Act.
 
 #### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -377,7 +378,7 @@ Missing:
 	- [Rapport Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (2024) *Norwegian only*](https://www.forskningsradet.no/siteassets/publikasjoner/2024/sluttrapport_helhetlig-forskningssystem.pdf)
 - Export control regulations
 	- Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
-	- [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
+	- [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-technology-transfer-and-international-sanctions)
 	- [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
 - Intellectual Property Rights (IPR) or confidentiality issues
 	- Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
@@ -423,7 +424,7 @@ Who has ownership of the data? (Normally UiT, unless ownership has been agreed o
 
 How will the data be licensed for reuse? (According to section 4.5 in the UiT guidelines, research data shall be equipped with licenses for access, reuse, and dissemination. These licenses should be internationally recognised and set as few limitations on the data as possible. The researcher must ensure that licenses and applicable conditions for the use or sharing of third party data are complied with.)
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Generally, the rights to project results should be transferred from the researchers (and possibly others who have helped create such results) to the institution(s) where the researchers are employed. This is in accordance with the Employees’ Inventions Act, and in accordance with the objectives of the Act relating to universities and university colleges (see in particular §1-5, Academic freedom and responsibility). See also the Norwegian Research Council’s Policy on Intellectual Property Rights.
 
 #### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -475,7 +476,7 @@ It is less common that the institutions have ethics committees.
 [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
 Be aware of international codes of conduct including but not limited to:
-- [CARE principles from GIDA](https://www.gida-global.org/care) for Indigenous Data Governance
+- [CARE principles from GIDA](https://www.gida-global.org/careprinciples) for Indigenous Data Governance
 - [Indigenous data, consent](https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
 - [Nagoya protocol](https://www.cbd.int/abs) on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity
 - [WMA Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/) on Ethical Principles for Medical Research Involving Human Subjects
@@ -567,7 +568,7 @@ Is an ethical review (for example by an ethics committee/REK or approval of use 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 Are you going to collect informed consent to store and share the data? If so, how? How are you going to secure confidentiality and identity protection?
 
-#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Add any comments on issues related to for example: research on human embryos and fetuses, and/or human cells and tissues; collection of personal data and obtaining consent; animal research; research in non-EU countries; unintended effects on the environment, health and safety; and the potential misuse of research results. See also [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

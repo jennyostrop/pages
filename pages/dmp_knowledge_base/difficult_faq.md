@@ -106,11 +106,12 @@ Institutional resources on IPR:
 * [UiO: Policy for intellectual property rights at the University of Oslo](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-11-20")
 * [UiT: Regulations for securing and management of work results at UiT](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-11-20")
 
-### Is my data still personal if it has been pseudonymised and the key has been deleted/is stored in a safe system
+### Is my data still personal if it has been pseudonymized and the key has been deleted/is stored in a safe system
 Useful resources:
+
 * [Research Data Alliance Norway (NO-RDA): Veileder for deling av forskningsdata med personopplysninger *Norwegian only*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
-* [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-11-20")
-* [EDPB Guidelines 02/2026 on Psudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30")
+* [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
+* [EDPB Guidelines 02/2026 on Pseudonymisation](https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en "2026-07-30")
 * [researchdata.se (SE): Data containing personal information - FAQ and common misconceptions](https://researchdata.se/en/manage-data/data-containing-personal-information/frequently-asked-questions-and-common "2026-07-30")
 * [FORS (CH): Data anonymisation: legal, ethical, and strategic considerations](https://doi.org/10.24449/FG-2020-00011)
 
@@ -120,6 +121,7 @@ Recent developments:
 
 Anonymization tools:
 * [FORS (CH): A practical guide to anonymisation tools](https://forscenter.ch/wp-content/uploads/2026/02/a-practical-guide-to-anonymisation-tools.pdf "2026-07-30")
+
 
 ### How should the CARE principles be implemented in practice? Is there Norwegian resources?
 Useful resources:

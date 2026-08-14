@@ -175,7 +175,7 @@ Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/suppo
 Ethical considerations may affect how data will be handled and shared. Investigating if there is subject-specific research ethical guidelines and codes of conduct is therefore important.
 
 Please indicate any additional ethical guidelines or codes of conducts relevant for the project. Examples (non-exhaustive):
-* [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care "2024-04-22")
+* [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/careprinciples "2026-07-31")
 * [The TRUST Code – Global Code of Conduct for Equitable Research Partnerships](https://www.globalcodeofconduct.org/ "2024-04-22")
 * [Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/ "2026-07-30")
 * [Guidelines for Internet Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/a-guide-to-internet-research-ethics/ "2024-10-30")
@@ -265,14 +265,14 @@ These questions will guide you through relevant considerations concerning collec
 #### How will you document participants information and/or consent?
 Documenting permissions form study participants to share data is crucial to making research data available, and often difficult or impossible to obtain in retrospect. It is therefore essential to include information about planned data sharing in the participant information letter and/or consent forms. 
 
-Ideally, the permission should be requested in a granular way, with distinct permission to making data available. Unfortunately, guidance on this topic and examples of consent forms that are adapted to European legislation is not easily found, and the lines of what and when is possible is still being drawn up. Consult your [institutional research data management support services](/pages/dmp_supporting_info/support_00_local_disc.md#institutional-rdm-support-alphabetical-order) if you are uncertain about formulations or need examples of how sharing and reuse of data including information about people can be possible.
+Ideally, the permission should be requested in a granular way, with distinct permission to making data available. Unfortunately, guidance on this topic and examples of consent forms that are adapted to European legislation is not easily found, and the lines of what and when is possible is still being drawn up. Consult your [institutional research data management support services](/pages/support_00_local_disc#institutional-rdm-support-alphabetical-order) if you are uncertain about formulations or need examples of how sharing and reuse of data including information about people can be possible.
 
 Remember that the ethical requirement to obtain permission to data sharing from study participants is independent of the legal basis (Norwegian: behandlingsgrunnlag) for processing of personal data as required by GDPR. This difference will however not be evident for research participants and the term 'consent' (Norwegian: samtykke) is often used for both processes. However, the requirements for the two types of consent differ.
 
 ##### Research regulated by the Health Research Act
 For medical and health research projects, the requirement for obtaining informed consent from subjects is described in chapter 4 of the Health Research Act [Norwegian: Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](https://lovdata.no/dokument/LTI/lov/2008-06-20-44).
 
-Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
+Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://www.edpb.europa.eu/documents/legislative-opinion/opinion-32019-concerning-the-questions-and-answers-on-the-interplay_en) of the European data protection board.
 
 ##### Research project using 'public interest' as legal basis
 Scientific projects at public research institutions will often rely on publich interest as legal basis legal basis for the processing of personal data. For compliance with ethical guidelines, participant permission to archive the data for the purpose of future research, and possibly also educational purposes, should be collected and documented.
@@ -321,7 +321,7 @@ Resources on export control:
 * sikresiden.no e-learning course [Research security in international cooperation](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
 * [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
 * [Norwegian Directorate for Higher Education and Skills: Export control of knowledge transfer and international sanctions](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-knowledge-transfer-and-international-sanctions "2024-10-03")
-* Ministry of Foreign Affairs: Guidelines for technology export (2025) ([Norwegian: Veileder for eksport av teknologi](https://www.regjeringen.no/no/dokumenter/veileder-for-eksport-av-teknologi/id3116449/){:lang="no"})
+* [Ministry of Foreign Affairs: Guidelines for technology export (2025) *in Norwegian*](https://www.regjeringen.no/no/dokumenter/veileder-for-eksport-av-teknologi/id3116449/){:lang="no"})
 * [National Research Ethics Committees: Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/ "2026-06-24")
 * [NTNU: Control of knowledge transfer](https://i.ntnu.no/wiki/-/wiki/English/Control+of+knowledge+transfer "2024-10-03")
 * [UiB: Responsible International Knowledge Cooperation](https://www.uib.no/en/udir/173813/responsible-international-knowledge-cooperation "2025-03-04")
@@ -336,7 +336,7 @@ Institutional IPR policies:
 
 Technology transfer and innovation contact points:
 * [NTNU Technology Transfer as](https://www.ntnutto.no/)
-* [UiB: VIS - Innovation and commercialization](https://www.uib.no/en/research/74837/vis-innovation-and-commercialization)
+* [UiB: Innovation](https://www.uib.no/en/innovation)
 * [UiO: Inven2 as](https://www.inven2.com/innovation/researchers/?lang=en)
 * [UiT: Norinnova](https://norinnova.no/tto/)
 
