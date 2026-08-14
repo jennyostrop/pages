@@ -106,7 +106,7 @@ Institutional resources on IPR:
 * [UiO: Policy for intellectual property rights at the University of Oslo](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-11-20")
 * [UiT: Regulations for securing and management of work results at UiT](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-11-20")
 
-### Is my data still personal if it has been pseudonymized and the key has been deleted/is stored in a safe system
+### Is my data still personal if it has been pseudonymised and the key has been deleted/is stored in a safe system
 Useful resources:
 * [Research Data Alliance Norway (NO-RDA): Veileder for deling av forskningsdata med personopplysninger *Norwegian only*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
 * [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-11-20")
